@@ -1,0 +1,14 @@
+.row {
+  background-color: #16171a;
+  cursor: pointer;
+  color: white;
+  font-family: Montserrat;
+}
+
+.row:hover {
+  background-color: #131111;
+}
+
+.pagination_style .MuiPaginationItem-root {
+  color: gold;
+}

@@ -1,0 +1,19 @@
+.bannerStyle {
+  background-image: url("https://github.com/piyush-eon/react-crypto-tracker/assets/109793318/255fedb2-db46-4d62-b724-16699e149c4c");
+}
+
+.banner_content {
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  padding-top: 25px;
+  justify-content: space-around;
+}
+
+.tagline {
+  display: flex;
+  height: 40%;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
